@@ -8,4 +8,3 @@ var y = prompt("Enter last name");
   
   window.alert(firstNames + " " + lastNames);
   window.alert(x.length + y.length);
-
